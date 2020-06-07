@@ -1,0 +1,83 @@
+package com.sri.model;
+
+public class NflTeam {
+	int rankings;
+	String name;
+	String city;
+	String quarterback;
+	String jerseyColors;
+	String employeeFans;
+	
+	public NflTeam() {
+		super();
+	}// This constructor allows for a blank value to be inputed by the data table or
+		// user. It can overridden by second constructor which has all columns from
+		// database.
+
+	public NflTeam(int rankings, String name, String city, String quarterback, String jerseyColors,
+			String employeeFans) {
+		super();
+		this.rankings = rankings; 
+		this.name=name;
+		this.city=city;
+		this.quarterback=quarterback;
+		this.jerseyColors=jerseyColors;
+		this.employeeFans=employeeFans;
+		
+	}// This constructor overrides first constructor. User or database can send
+		// either response and constructor will accept it.
+
+	public int getRankings() {
+		return rankings;
+	}// gets value of rankings when called.
+
+	public void setRankings(int rankings) {
+		this.rankings = rankings;
+	}// sets value for ranking when called.
+
+	public String getName() {
+		return name;
+	}// gets value for name when called.
+
+	public void setName(String name) {
+		this.name = name;
+	}// sets value for name when called
+
+	public String getCity() {
+		return city;
+	}// gets value for city when called.
+
+	public void setCity(String city) {
+		this.city = city;
+	}// sets value for city when called.
+
+	public String getQuarterback() {
+		return quarterback;
+	}// gets value for quarterback when called.
+
+	public void setQuarterback(String quarterback) {
+		this.quarterback = quarterback;
+	}// sets value for quarterback when called.
+
+	public String getJerseyColors() {
+		return jerseyColors;
+	}// gets value for jerseyColors when called.
+
+	public void setJerseyColors(String jerseyColors) {
+		this.jerseyColors = jerseyColors;
+	}// sets value for jerseyColors when called.
+
+	public String getEmployeeFans() {
+		return employeeFans;
+	}// gets value for employeeFans when called.
+
+	public void setEmployeeFans(String employeeFans) {
+		this.employeeFans = employeeFans;
+	}// sets value for employeeFans when called.
+	
+	public String toString() {
+		return "rankings: " + rankings + "-Name:" + name + "-City: " + city + "-Quarterback:" + quarterback
+				+ "-JerseyColors:" + jerseyColors + "-EmployeeFans:" + employeeFans;
+	}
+
+}

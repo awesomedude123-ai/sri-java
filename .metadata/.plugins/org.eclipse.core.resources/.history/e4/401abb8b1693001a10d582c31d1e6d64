@@ -1,0 +1,90 @@
+package com.amky.controller;
+
+import java.net.URI;
+
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
+
+import com.amky.dao.EmployeeDAO;
+import com.sri.model.Employee;
+import com.sri.model.Employees;
+
+/*
+ * employees is the request user uses when calling this method. User is requesting getEmployees method.
+ * Rest Controller states this class is controller class. Request Mapping is Annotation for mapping web requests 
+ * onto methods in request-handling classes with flexible method signatures. 
+ */
+@RestController
+@RequestMapping(path = "/employees")
+public class EmployeeController {
+
+	@Autowired
+	private EmployeeDAO employeeDao;
+
+	// This is what is produced when /employees is requested
+	@GetMapping(path = "/getEmployeeList", produces = "application/json")
+	public Employees getEmployees() {
+		return employeeDao.getAllEmployees();
+	}
+
+	@PostMapping(path = "/addEmployee", consumes = "application/json", produces = "application/json")
+	public ResponseEntity<Object> addEmployee(@RequestBody Employee employee) {
+		Integer id = employeeDao.getAllEmployees().getEmployeeList().size() + 1;
+		employee.setId(id);
+
+		employeeDao.addEmployee(employee);
+
+		URI location = ServletUriComponentsBuilder.fromCurrentRequest().path("/{id}").buildAndExpand(employee.getId())
+				.toUri();
+
+		return ResponseEntity.created(location).build();
+	}
+	@PostMapping(path = "/updateEmployee", consumes = "application/json", produces = "application/json")
+	public ResponseEntity<Object> updateEmployee(@RequestBody Employee employee) {
+
+		employeeDao.updateEmployee(employee);
+
+		URI location = ServletUriComponentsBuilder.fromCurrentRequest().path("/{id}").buildAndExpand(employee.getId())
+				.toUri();
+
+		return ResponseEntity.created(location).build();
+	}
+	
+	@PostMapping(path="/checkEmployee", consumes="application/json", produces="application/json")
+	public ResponseEntity<Object> checkEmployee(@RequestBody Employee employee){
+		employeeDao.credentialEmployee(employee);
+		URI location=ServletUriComponentsBuilder.fromCurrentRequest().path("/{id}").buildAndExpand(employee.getId()).toUri();
+		
+		return ResponseEntity.created(location).build();
+	}
+	
+	@PostMapping(path= "/checkEmployee", consumes = "application/json", produces = "application/json")
+    @CrossOrigin(origins = "*")
+    public Employee  validateEmployee(@RequestBody Employee employee)
+    {
+            System.out.println("Customer Username "+employee.getUsername());
+            return    employeeDao.credentialEmployee(employee);
+    }
+	
+	/**
+	 * ResponseEntity is extension of http. 
+	 * Http is a request used in web servers which answer the web requests with the websites user is requesting for.
+	 * HTTP: Hypertext Transfer(Transport) Protocol
+	 */
+
+}
+	/*
+	 * Controller fills the web requests. It receives the requests, reads it, goes
+	 * to DAO and gets the data from the database. Then it sends the data to the
+	 * web. Delete Code and rewrite so it is engraved in head, no more copying!!
+	 * Java Servelt- Waits for user requests, once it gets a request, sends the values back to user
+	 */
+//Controller is main class that talks to client or user. Class that interacts with the client. @rest controller calls spring framework and uses all methods available in spring framework.

@@ -1,0 +1,28 @@
+package com.sri.model;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class NflTeams {
+	private List<NflTeam>nflTeamList;
+
+	public List<NflTeam> getnflTeamList() {
+		if(nflTeamList==null) {
+			 nflTeamList=new ArrayList<NflTeam>();
+		}
+		return nflTeamList;
+	}
+
+	public void setnflTeamList(List<NflTeam> nflTeamList) {
+		this.nflTeamList = nflTeamList;
+	}// When called, set nflTeam list to user set values.
+	
+	public int getCount() {
+		if(nflTeamList!=null) {
+			return nflTeamList.size();
+		}
+		return 0;
+	}// end getCount. Returns size of the list, if list is not there, then returns 0.
+	
+}/* Makes an nflTeam list which will allocate memory space for all the columns in the database. It will return List and values if it is present.
+Else it will create new list. It will also give the size of the list. */

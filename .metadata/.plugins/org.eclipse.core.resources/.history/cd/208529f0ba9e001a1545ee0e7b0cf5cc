@@ -1,0 +1,126 @@
+/**
+ * 
+ */
+package com.amky.dao;
+
+import com.sri.model.Employee;
+import com.sri.model.Employees;
+
+import java.sql.Types;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
+
+/**
+ * @author ramsm
+ *
+ */
+@Repository
+public class EmployeeDAO {
+	private static Employees list = new Employees();
+	// Spring Boot will create and configure DataSource and JDBCTemplate
+	// To use it, just @AutoWired, UI=User Interface
+	// DAO-Data Access Object, object that allows abstract interface on some
+	// database. It allows specific methods to be run, reveals specific data, but
+	// does not reveal anything about the database.
+	@Autowired
+	private JdbcTemplate jdbcTemplate;
+
+	public Employees getAllEmployees() {
+		List employeeListFromQuery;
+		employeeListFromQuery = jdbcTemplate.query("select* from employee",
+				(rs, rowNum) -> 
+		new Employee(
+				rs.getInt("id"), 
+				rs.getString("firstName"),
+				rs.getString("lastName"),
+				rs.getString("address"), 
+				rs.getString("city"),
+				rs.getString("zip"),
+				rs.getString("username"),
+				rs.getString("password")));
+		list.setEmployeeList(null);
+		for (int i = 0; i < employeeListFromQuery.size(); i++) {
+			list.getEmployeeList().add((Employee) employeeListFromQuery.get(i));
+			System.out.println(employeeListFromQuery.get(i).toString());
+		}
+		return list;
+	}/*
+		 * initiates new list. This list is connected to the table in mySQL. Every time
+		 * this method is called, the values in the database are sent to this list in
+		 * jdbcTemplate. get the columns or values and saves it into the list. The list
+		 * will be sent to the UI when called upon.
+		 */
+
+	public void addEmployee(Employee employee) {
+		System.out.println("Inserting an employee");
+		String insertSql = "INSERT INTO employee (" + " firstName, " + " lastName, " + " address, "+ "city, " + "zip, " +"password, "+"username, " + "VALUES (?, ?, ?, ?, ?, ?, ?)";
+
+		Object[] params = new Object[] { employee.getFirstName(), employee.getLastName(), employee.getAddress(), employee.getCity(), employee.getZip(),employee.getPassword(),employee.getUsername()};
+
+		// define SQL types of the arguments
+		int[] types = new int[] { Types.VARCHAR, Types.VARCHAR, Types.VARCHAR, Types.VARCHAR, Types.VARCHAR, Types.VARCHAR,Types.VARCHAR };
+
+		int row = jdbcTemplate.update(insertSql, params, types);
+		System.out.println(row + " row inserted.");
+	}// end class addEmployee
+	/**
+	 * This method adds a new employee row into the database and prints it out. It goes to the data base and retrieves all data present. Then,
+	 * it adds the new values to the data.
+	 * Positional parameter passing
+	 **/
+	
+	public void updateEmployee(Employee employee) {
+		System.out.println("Updating employee");
+		String updateSql="update employee set firstName=?, lastName=?,  address=?, city=?, zip=? where id=?";
+		
+		Object[] params= new Object[] {employee.getFirstName(),employee.getLastName(),employee.getAddress(),employee.getCity(), employee.getZip(), employee.getId()};
+		int[] types= new int[] {Types.VARCHAR, Types.VARCHAR, Types.VARCHAR, Types.VARCHAR, Types.VARCHAR, Types.INTEGER};
+		int row = jdbcTemplate.update(updateSql,params,types);
+		System.out.println(row + "rows updated.");
+		
+	}// end class updateEmployee
+	/**
+	 * This method updates the present data in table Employee. It updates the chosen data by the UI and returns the new data inserted.
+	 */
+	public Employee credentialEmployee(Employee employee) {
+		System.out.println("Checking Employee");
+		String credentialSql="select * from employee where username=? and password=?";
+		Object[] params=new Object[] {employee.getUsername(),employee.getPassword()};
+		List employeeListFromQuery=jdbcTemplate.query(credentialSql,params, (rs,rowNum)->
+		new Employee(
+				rs.getString("username"),
+				rs.getString("password")));
+		
+		Employee vEmployee = (Employee)employeeListFromQuery.get(0);
+		System.out.println(vEmployee + "This is it.");
+		return vEmployee;
+	
+	}
+	public Employees getSpecificEmployee(Employee employee) {
+		System.out.println("Getting Specific Employee");
+		String getSql = "Select * from employee where username=? and password=?";
+		Object[] params = new Object[] {employee.getUsername(),employee.getPassword()};
+		List employeeListFromQuery=jdbcTemplate.query(getSql, params,(rs,RowNum)->
+		new Employee(
+				rs.getString("username"),
+				rs.getString("password")));
+		Employee vEmployee = (Employee)employeeListFromQuery.get(0);
+		List employeeListFromQuery2=jdbcTemplate.query(getSql, params,(rs,RowNum)->
+		new Employee(
+				rs.getInt("id"),
+				rs.getString("firstName"),
+				rs.getString("lastName"),
+				rs.getString("address"),
+				rs.getString("city"),
+				rs.getString("zip"),
+				rs.getString("username"),
+				rs.getString("password")));
+		list.setEmployeeList(employeeListFromQuery);
+		return list;
+	}
+	
+}
