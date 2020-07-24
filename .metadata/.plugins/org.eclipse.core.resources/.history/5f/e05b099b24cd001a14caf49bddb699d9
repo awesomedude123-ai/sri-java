@@ -1,0 +1,13 @@
+package com.sri.computerProject;
+
+public class StringAndMathClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String tests="This Is Great.";
+		
+		System.out.println(tests.toLowerCase());
+
+	}
+
+}

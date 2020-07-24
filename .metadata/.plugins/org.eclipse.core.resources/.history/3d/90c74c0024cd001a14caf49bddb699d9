@@ -1,0 +1,105 @@
+package com.sri.computerProject;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Simple {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String test="This Is Great.";
+		String two="2";
+		String three="3";
+		String fifty="30.098686";
+		
+		System.out.println(test.toLowerCase().indexOf("I"));
+		double red=Double.parseDouble(fifty);
+		int two1=Integer.parseInt(two);
+		int three1=Integer.parseInt(three);
+		System.out.println(two + three);
+		System.out.println(two1 + three1);
+		System.out.println(red);
+		
+		
+		
+		String test1="123";
+		int x=Integer.parseInt(test1);
+		System.out.println(x);
+		ArrayList<Integer> test=new ArrayList<>();
+		int d=200;
+		float o=200;
+		float l=(float)d;
+		System.out.print(d);
+		System.out.println(o);
+		
+		int p=10;
+		p=p*7;
+		System.out.println(p);
+		if(p==70 && d==100) {
+			System.out.println("It worked");
+		}
+
+		
+
+		
+	/*	Scanner oldScanner  = new Scanner(System.in);
+		for(int i=0;i<10;i++) {
+			int x = oldScanner.nextInt();
+			test.add(x);
+		}
+		test.forEach(i -> {
+			int x = test.get(i);
+			System.out.println(x);
+		}); */
+		
+		
+		for(int i = 0; i < test.size(); i++) {
+			int y = test.get(test.get(i));
+		}
+		
+		System.out.println("This works");
+		/**
+		 * for(int x=0;x<2;++x) {
+		 * System.out.println(x);
+		}
+		 * @param number
+		 * @return
+		 */
+			
+		for(int y=0;y<2;y++) {
+			System.out.println(y);
+		}
+		
+		/*int a=0;
+		 * 
+		System.out.println(fac(4));
+		for(;;) {
+			System.out.println(x);
+			a=a+1;
+			if(x==7)
+				break;
+		}
+		 */
+		
+		
+	}
+	
+	public static int fac(int number) {
+		return process(number,1);
+	}// end method fac
+	
+	public static int process(int number, int z) {
+		if(number==1)
+			return z;
+		return process(number-1,z*number);
+	
+	}// end method process
+	
+
+
+}
+
+class Node{
+	Node left, right;
+}
+

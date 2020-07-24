@@ -2550,3 +2550,604 @@
 2020-06-06 21:22:25,274 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-06-06 21:22:25,289 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-06-06 21:22:25,289 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-22 19:33:03,854 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-22 19:33:17,222 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:33:17,232 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-22 19:33:17,263 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-22 19:33:17,267 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:33:17,267 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-22 19:33:20,028 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:33:20,029 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-22 19:33:20,030 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-22 19:33:20,032 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:33:20,032 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-22 19:34:03,467 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:34:03,472 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-22 19:34:03,476 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-22 19:34:03,479 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:34:03,480 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-22 19:34:33,464 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:34:33,465 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-22 19:34:33,471 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-22 19:34:33,474 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:34:33,474 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-22 19:35:53,610 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:35:53,611 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-22 19:35:53,621 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-22 19:35:53,624 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:35:53,624 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-22 19:37:36,064 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:37:36,064 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-22 19:37:36,067 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-22 19:37:36,069 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:37:36,069 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-22 19:37:57,080 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:37:57,081 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-22 19:37:57,100 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-22 19:37:57,104 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:37:57,104 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-22 19:38:57,999 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:38:58,000 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-22 19:38:58,004 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-22 19:38:58,010 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:38:58,011 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-22 19:39:28,005 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:39:28,006 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-22 19:39:28,011 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-22 19:39:28,020 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:39:28,020 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-22 19:41:47,020 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:41:47,021 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-22 19:41:47,025 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-22 19:41:47,029 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:41:47,030 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-22 19:43:05,151 [Worker-7: Launching InterfacePractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:43:05,152 [Worker-7: Launching InterfacePractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-22 19:43:05,159 [Worker-7: Launching InterfacePractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-22 19:43:05,163 [Worker-7: Launching InterfacePractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:43:05,164 [Worker-7: Launching InterfacePractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-22 19:51:58,465 [Worker-4: Launching InterfacePractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:51:58,466 [Worker-4: Launching InterfacePractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-22 19:51:58,470 [Worker-4: Launching InterfacePractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-22 19:51:58,473 [Worker-4: Launching InterfacePractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:51:58,473 [Worker-4: Launching InterfacePractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-22 19:52:15,033 [Worker-0: Launching InterfacePractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:52:15,033 [Worker-0: Launching InterfacePractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-22 19:52:15,036 [Worker-0: Launching InterfacePractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-22 19:52:15,040 [Worker-0: Launching InterfacePractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:52:15,040 [Worker-0: Launching InterfacePractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-22 19:52:34,569 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:52:34,570 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-22 19:52:34,573 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-22 19:52:34,575 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-22 19:52:34,575 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-23 17:20:05,598 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 17:20:05,603 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 17:20:05,616 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-23 17:20:05,619 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 17:20:05,619 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-23 17:21:13,383 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 17:21:13,383 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 17:21:13,386 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-23 17:21:13,388 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 17:21:13,389 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-23 17:21:26,092 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 17:21:26,093 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 17:21:26,100 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-23 17:21:26,104 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 17:21:26,104 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-23 17:23:21,018 [Worker-239: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 17:23:21,019 [Worker-239: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 17:23:21,022 [Worker-239: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-23 17:23:21,024 [Worker-239: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 17:23:21,025 [Worker-239: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-23 17:26:30,695 [Worker-238: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 17:26:30,696 [Worker-238: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 17:26:30,703 [Worker-238: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-23 17:26:30,705 [Worker-238: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 17:26:30,705 [Worker-238: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-23 17:50:21,153 [Worker-250: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 17:50:21,155 [Worker-250: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 17:50:21,165 [Worker-250: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-23 17:50:21,167 [Worker-250: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 17:50:21,167 [Worker-250: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-23 17:50:48,953 [Worker-247: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 17:50:48,954 [Worker-247: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 17:50:48,957 [Worker-247: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-23 17:50:48,959 [Worker-247: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 17:50:48,959 [Worker-247: Launching ObjectPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-24 17:45:58,556 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 17:45:58,561 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 17:45:58,575 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 17:45:58,588 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 17:45:58,591 [Worker-301: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:12:25,754 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-26 18:12:37,666 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:12:37,688 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:12:37,719 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:12:37,719 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:12:37,719 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:12:40,139 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:12:40,139 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:12:40,139 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:12:40,139 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:12:40,139 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:12:54,748 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:12:54,748 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:12:54,886 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:12:54,889 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:12:54,893 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:13:59,915 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:13:59,915 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:13:59,956 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:13:59,966 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:13:59,966 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:15:34,023 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:15:34,023 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:15:34,023 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:15:34,023 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:15:34,023 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:15:43,045 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:15:43,045 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:15:43,045 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:15:43,045 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:15:43,045 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:15:52,289 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:15:52,305 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:15:52,305 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:15:52,305 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:15:52,305 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:16:33,661 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:16:33,663 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:16:33,708 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:16:33,713 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:16:33,714 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:17:48,815 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:17:48,815 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:17:48,815 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:17:48,815 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:17:48,815 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:18:04,345 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:18:04,361 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:18:04,361 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:18:04,361 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:18:04,361 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:19:12,692 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:19:12,694 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:19:12,700 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:19:12,703 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:19:12,703 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:19:51,703 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:19:51,703 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:19:51,703 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:19:51,718 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:19:51,718 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:21:50,052 [Worker-4: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:21:50,052 [Worker-4: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:21:50,052 [Worker-4: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:21:50,052 [Worker-4: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:21:50,052 [Worker-4: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:47:39,568 [Worker-22: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:47:39,568 [Worker-22: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:47:39,583 [Worker-22: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:47:39,587 [Worker-22: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:47:39,587 [Worker-22: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:48:08,777 [Worker-1: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:48:08,777 [Worker-1: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:48:08,779 [Worker-1: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:48:08,779 [Worker-1: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:48:08,779 [Worker-1: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:48:32,290 [Worker-23: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:48:32,290 [Worker-23: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:48:32,305 [Worker-23: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:48:32,305 [Worker-23: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:48:32,305 [Worker-23: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:55:17,594 [Worker-24: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:55:17,594 [Worker-24: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:55:17,594 [Worker-24: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:55:17,609 [Worker-24: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:55:17,609 [Worker-24: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 18:59:54,545 [Worker-24: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:59:54,545 [Worker-24: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 18:59:54,554 [Worker-24: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 18:59:54,554 [Worker-24: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 18:59:54,554 [Worker-24: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 19:00:17,249 [Worker-24: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:00:17,264 [Worker-24: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 19:00:17,264 [Worker-24: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 19:00:17,271 [Worker-24: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:00:17,271 [Worker-24: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 19:00:51,950 [Worker-25: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:00:51,950 [Worker-25: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 19:00:51,952 [Worker-25: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 19:00:51,952 [Worker-25: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:00:51,952 [Worker-25: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 19:01:30,933 [Worker-21: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:01:30,933 [Worker-21: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 19:01:30,933 [Worker-21: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 19:01:30,933 [Worker-21: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:01:30,933 [Worker-21: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 19:05:37,933 [Worker-27: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:05:37,933 [Worker-27: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 19:05:37,933 [Worker-27: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 19:05:37,933 [Worker-27: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:05:37,933 [Worker-27: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 19:07:54,948 [Worker-21: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:07:54,950 [Worker-21: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 19:07:54,952 [Worker-21: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 19:07:54,954 [Worker-21: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:07:54,954 [Worker-21: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 19:10:45,764 [Worker-26: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:10:45,764 [Worker-26: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 19:10:45,764 [Worker-26: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 19:10:45,764 [Worker-26: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:10:45,764 [Worker-26: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 19:11:45,532 [Worker-27: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:11:45,532 [Worker-27: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 19:11:45,547 [Worker-27: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 19:11:45,547 [Worker-27: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:11:45,547 [Worker-27: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 19:12:15,063 [Worker-29: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:12:15,063 [Worker-29: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 19:12:15,063 [Worker-29: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 19:12:15,063 [Worker-29: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:12:15,078 [Worker-29: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 19:13:57,854 [Worker-26: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:13:57,854 [Worker-26: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 19:13:57,854 [Worker-26: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 19:13:57,854 [Worker-26: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:13:57,854 [Worker-26: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 19:15:36,927 [Worker-28: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:15:36,943 [Worker-28: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 19:15:36,943 [Worker-28: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 19:15:36,943 [Worker-28: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:15:36,943 [Worker-28: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 19:16:30,792 [Worker-29: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:16:30,792 [Worker-29: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 19:16:30,808 [Worker-29: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 19:16:30,808 [Worker-29: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 19:16:30,808 [Worker-29: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 21:15:46,518 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 21:15:46,518 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 21:15:46,533 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 21:15:46,533 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 21:15:46,533 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 21:48:35,038 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-06-26 21:48:45,430 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 21:48:45,448 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 21:48:45,489 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 21:48:45,499 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 21:48:45,499 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-26 21:48:47,981 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 21:48:47,983 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 21:48:47,983 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 21:48:47,986 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 21:48:47,986 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-29 19:00:45,702 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-29 19:01:01,928 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-29 19:01:01,937 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-29 19:01:01,958 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-29 19:01:01,962 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-29 19:01:01,962 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-29 19:01:43,001 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-29 19:01:43,003 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-29 19:01:43,003 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-29 19:01:43,005 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-29 19:01:43,005 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-06-29 19:06:32,538 [Worker-17: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-29 19:06:32,540 [Worker-17: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-29 19:06:32,543 [Worker-17: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-29 19:06:32,546 [Worker-17: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-29 19:06:32,546 [Worker-17: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-07-02 16:21:41,299 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-02 16:21:41,301 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-02 16:21:41,310 [Worker-202: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 15:55:08,870 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-03 15:55:23,943 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 15:55:23,954 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 15:55:23,986 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 15:55:23,989 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 15:55:23,989 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-07-03 15:55:26,746 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 15:55:26,748 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 15:55:26,748 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 15:55:26,751 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 15:55:26,751 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-07-03 19:34:26,641 [Worker-58: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 19:34:26,644 [Worker-58: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 19:34:26,648 [Worker-58: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 19:34:26,650 [Worker-58: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 19:34:26,650 [Worker-58: Launching Musician] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-07-03 19:45:26,913 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 19:45:26,914 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 19:45:26,977 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 19:45:26,980 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 19:45:26,980 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-07-03 19:45:40,482 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 19:45:40,484 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-03 19:45:40,497 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-03 19:45:40,501 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-03 19:45:40,501 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\Class Work\javaClass\SpringBootTemplate\src\test\resources
+2020-07-04 14:03:55,134 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-04 14:04:09,221 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 14:04:09,231 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 14:04:09,273 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 14:04:09,278 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 14:04:09,279 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-04 14:04:12,184 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 14:04:12,191 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 14:04:12,191 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 14:04:12,199 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 14:04:12,199 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-04 14:52:46,810 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-04 14:52:58,140 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 14:52:58,146 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 14:52:58,170 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 14:52:58,174 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 14:52:58,174 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-04 15:07:58,001 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 15:07:58,002 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 15:07:58,003 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 15:07:58,004 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 15:07:58,005 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-04 15:12:15,153 [Worker-22: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 15:12:15,156 [Worker-22: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 15:12:15,159 [Worker-22: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 15:12:15,162 [Worker-22: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 15:12:15,162 [Worker-22: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-04 15:17:59,148 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 15:17:59,149 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 15:17:59,158 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 15:17:59,160 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 15:17:59,161 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-04 15:19:31,615 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 15:19:31,616 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 15:19:31,619 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 15:19:31,622 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 15:19:31,622 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-04 15:20:54,087 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 15:20:54,087 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 15:20:54,090 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 15:20:54,093 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 15:20:54,094 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-04 15:33:04,898 [Worker-22: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 15:33:04,899 [Worker-22: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 15:33:04,902 [Worker-22: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 15:33:04,906 [Worker-22: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 15:33:04,906 [Worker-22: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-04 15:34:05,843 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 15:34:05,843 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 15:34:05,847 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 15:34:05,851 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 15:34:05,851 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-04 15:35:12,773 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 15:35:12,774 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 15:35:12,778 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 15:35:12,780 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 15:35:12,780 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-06 15:27:15,328 [Worker-47: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:27:15,331 [Worker-47: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:27:15,341 [Worker-47: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:27:15,351 [Worker-47: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:27:15,352 [Worker-47: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-07 13:21:43,562 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-07 13:22:01,281 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-07 13:22:01,290 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-07 13:22:01,322 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-07 13:22:01,327 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-07 13:22:01,327 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-07 14:30:41,126 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-07 14:30:41,130 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-07 14:30:41,139 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-07 14:30:41,141 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-07 14:30:41,141 [Worker-23: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-08 14:33:51,144 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-08 14:33:51,145 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-08 14:33:51,154 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-08 14:33:51,156 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-08 14:33:51,157 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-09 17:33:46,601 [Worker-166: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-09 17:33:46,604 [Worker-166: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-09 17:33:46,623 [Worker-166: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-09 17:33:46,627 [Worker-166: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-09 17:33:46,628 [Worker-166: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-09 17:35:05,160 [Worker-167: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-09 17:35:05,161 [Worker-167: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-09 17:35:05,167 [Worker-167: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-09 17:35:05,169 [Worker-167: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-09 17:35:05,169 [Worker-167: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-09 17:35:28,924 [Worker-164: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-09 17:35:28,924 [Worker-164: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-09 17:35:28,927 [Worker-164: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-09 17:35:28,929 [Worker-164: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-09 17:35:28,929 [Worker-164: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-09 19:59:48,883 [Worker-215: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-09 19:59:48,884 [Worker-215: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-09 19:59:48,888 [Worker-215: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-09 19:59:48,891 [Worker-215: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-09 19:59:48,891 [Worker-215: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 18:25:35,799 [Worker-264: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 18:25:35,800 [Worker-264: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 18:25:35,809 [Worker-264: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 18:25:35,812 [Worker-264: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 18:25:35,812 [Worker-264: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 18:26:07,498 [Worker-265: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 18:26:07,499 [Worker-265: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 18:26:07,502 [Worker-265: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 18:26:07,504 [Worker-265: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 18:26:07,504 [Worker-265: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 18:46:38,931 [Worker-273: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 18:46:38,932 [Worker-273: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 18:46:38,935 [Worker-273: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 18:46:38,937 [Worker-273: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 18:46:38,937 [Worker-273: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 18:52:49,155 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 18:52:49,156 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 18:52:49,159 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 18:52:49,161 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 18:52:49,161 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 19:03:12,108 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:03:12,109 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 19:03:12,112 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 19:03:12,116 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:03:12,116 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 19:04:21,027 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:04:21,028 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 19:04:21,034 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 19:04:21,037 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:04:21,037 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 19:26:32,209 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:26:32,210 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 19:26:32,213 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 19:26:32,215 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:26:32,216 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 19:26:45,896 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:26:45,897 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 19:26:45,904 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 19:26:45,906 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:26:45,907 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 19:26:58,699 [Worker-285: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:26:58,699 [Worker-285: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 19:26:58,702 [Worker-285: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 19:26:58,704 [Worker-285: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:26:58,705 [Worker-285: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 19:27:08,494 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:27:08,494 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 19:27:08,497 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 19:27:08,500 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:27:08,501 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 19:27:38,971 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:27:38,971 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 19:27:38,976 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 19:27:38,978 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:27:38,979 [Worker-279: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 19:27:47,114 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:27:47,115 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 19:27:47,118 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 19:27:47,120 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:27:47,120 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 19:27:55,724 [Worker-283: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:27:55,725 [Worker-283: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 19:27:55,728 [Worker-283: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 19:27:55,730 [Worker-283: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:27:55,730 [Worker-283: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 19:30:19,283 [Worker-284: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:30:19,284 [Worker-284: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 19:30:19,287 [Worker-284: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 19:30:19,291 [Worker-284: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:30:19,291 [Worker-284: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 19:30:33,834 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:30:33,835 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 19:30:33,838 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 19:30:33,840 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:30:33,840 [Worker-277: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 19:30:47,018 [Worker-283: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:30:47,019 [Worker-283: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 19:30:47,026 [Worker-283: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 19:30:47,030 [Worker-283: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 19:30:47,030 [Worker-283: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 20:00:08,951 [Worker-289: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:00:08,952 [Worker-289: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 20:00:08,954 [Worker-289: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 20:00:08,956 [Worker-289: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:00:08,956 [Worker-289: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 20:10:31,750 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:10:31,751 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 20:10:31,753 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 20:10:31,755 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:10:31,755 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 20:10:46,456 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:10:46,456 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 20:10:46,461 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 20:10:46,464 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:10:46,464 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 20:11:08,879 [Worker-289: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:11:08,879 [Worker-289: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 20:11:08,882 [Worker-289: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 20:11:08,884 [Worker-289: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:11:08,885 [Worker-289: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 20:14:11,949 [Worker-291: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:14:11,950 [Worker-291: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 20:14:11,955 [Worker-291: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 20:14:11,958 [Worker-291: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:14:11,958 [Worker-291: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 20:14:19,668 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:14:19,668 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 20:14:19,672 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 20:14:19,675 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:14:19,675 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 20:15:02,530 [Worker-294: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:15:02,531 [Worker-294: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 20:15:02,535 [Worker-294: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 20:15:02,537 [Worker-294: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:15:02,537 [Worker-294: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 20:16:31,889 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:16:31,890 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 20:16:31,893 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 20:16:31,895 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:16:31,895 [Worker-287: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-10 20:17:03,963 [Worker-289: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:17:03,964 [Worker-289: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-10 20:17:03,967 [Worker-289: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-10 20:17:03,970 [Worker-289: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-10 20:17:03,970 [Worker-289: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-12 11:02:53,931 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-12 11:02:53,933 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-12 11:02:53,944 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-12 11:02:53,948 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-12 11:02:53,949 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-16 07:33:30,571 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-16 07:33:30,929 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2020-07-16 07:33:49,936 [Worker-5: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 07:33:49,943 [Worker-5: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-16 07:33:49,967 [Worker-5: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-16 07:33:49,970 [Worker-5: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 07:33:49,970 [Worker-5: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-17 08:23:49,255 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-17 08:43:14,146 [Worker-17: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-17 08:43:14,152 [Worker-17: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-17 08:43:14,171 [Worker-17: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-17 08:43:14,175 [Worker-17: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-17 08:43:14,175 [Worker-17: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-18 16:43:14,809 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-23 13:33:16,759 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-23 13:34:48,035 [Worker-3: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 13:34:48,041 [Worker-3: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 13:34:48,086 [Worker-3: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 13:34:48,089 [Worker-3: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 13:34:48,089 [Worker-3: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-23 13:35:09,853 [Worker-5: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 13:35:09,857 [Worker-5: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 13:35:09,862 [Worker-5: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 13:35:09,865 [Worker-5: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 13:35:09,865 [Worker-5: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-23 13:36:05,379 [Worker-8: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 13:36:05,380 [Worker-8: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 13:36:05,386 [Worker-8: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 13:36:05,391 [Worker-8: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 13:36:05,391 [Worker-8: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-23 13:36:52,050 [Worker-1: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 13:36:52,051 [Worker-1: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 13:36:52,055 [Worker-1: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 13:36:52,058 [Worker-1: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 13:36:52,058 [Worker-1: Launching Simple] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-23 13:37:50,885 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 13:37:50,886 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 13:37:50,893 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 13:37:50,896 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 13:37:50,896 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-23 13:38:37,183 [Worker-1: Launching StringAndMathClass] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 13:38:37,184 [Worker-1: Launching StringAndMathClass] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 13:38:37,198 [Worker-1: Launching StringAndMathClass] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 13:38:37,201 [Worker-1: Launching StringAndMathClass] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 13:38:37,201 [Worker-1: Launching StringAndMathClass] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-23 13:39:08,562 [Worker-10: Launching StringAndMathClass] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 13:39:08,563 [Worker-10: Launching StringAndMathClass] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 13:39:08,567 [Worker-10: Launching StringAndMathClass] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 13:39:08,569 [Worker-10: Launching StringAndMathClass] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 13:39:08,569 [Worker-10: Launching StringAndMathClass] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-07-23 13:39:29,302 [Worker-12: Launching StringAndMathClass] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 13:39:29,303 [Worker-12: Launching StringAndMathClass] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 13:39:29,307 [Worker-12: Launching StringAndMathClass] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 13:39:29,313 [Worker-12: Launching StringAndMathClass] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 13:39:29,313 [Worker-12: Launching StringAndMathClass] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
