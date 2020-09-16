@@ -1,0 +1,43 @@
+package com.sri.Graphs;
+
+import java.util.HashMap;
+import java.util.Scanner;
+
+public class Average1 implements Data{
+	Scanner oldScanner=new Scanner(System.in);
+	Double value;
+	String date;
+	
+	public HashMap put(HashMap point) {
+		for(int i=0;i<10;i++) {
+			System.out.println("Enter the value:");
+			point.put(date, oldScanner.nextDouble());
+		}// end for loop
+		return point;
+		
+	}
+	
+	@Override
+	public double average(int range,double value1, double value2) {
+		double average = (value1 + value2)/ (double)range;
+		return average;
+	}// end average method
+	
+	public double values(HashMap point) {
+		point.forEach((date, value) -> {
+			System.out.println(date);
+			
+		});
+		return value;
+		
+	}// end values method
+	
+	public Boolean checkForNull(HashMap point) {
+		if(point.containsValue(null)) {
+			return true;
+		}// end if statement
+		return false;
+		
+	}// end getDate
+	
+}

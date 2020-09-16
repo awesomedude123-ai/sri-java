@@ -1,0 +1,28 @@
+package com.sri.volunteer;
+
+import java.util.Scanner;
+
+public class User {
+	Scanner oldScanner=new Scanner(System.in);
+	
+	public String help() {
+		System.out.println("Please state what you need help with");
+		String subject=oldScanner.nextLine();
+		return subject;
+	}// end help method
+	
+	public String extraHelp(String subject) {
+		if(subject.contentEquals("Math")) {
+			System.out.println("What specifically do you need help with in Math?");
+			String info=oldScanner.nextLine();
+		}else if(subject.contentEquals("Science")) {
+			System.out.println("What specifically do you need help with in Science?");
+			String info=oldScanner.nextLine();
+		}else if(subject.contentEquals("Reading")) {
+			System.out.println("WHar specifically do you need help with in Reading?");
+			String info=oldScanner.nextLine();
+		}// end if/else/if/else/if statement
+		return "You did not enter a subject";
+	}// end extraHelp method
+	
+}

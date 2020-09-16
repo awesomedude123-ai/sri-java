@@ -1,0 +1,6 @@
+package com.sri.saveOrder;
+
+@RestCon
+public class SaveOrderConstructor {
+
+}

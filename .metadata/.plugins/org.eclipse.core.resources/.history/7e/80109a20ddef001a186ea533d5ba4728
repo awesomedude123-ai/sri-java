@@ -1,0 +1,294 @@
+package com.graphs.code;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+
+enum Month {
+    JAN,
+    FEB,
+    MAR,
+    APR,
+    MAY,
+    JUN,
+    JUL,
+    AUG,
+    SEPT,
+    OCT,
+    NOV,
+    DEC
+}
+
+public class Date {
+
+    //represents days in the year
+    static HashMap<Integer[], Integer> datesAsInts = new HashMap<>();
+
+    //has 31 days
+    static Month[] type1Months = {Month.JAN, Month.MAR, Month.MAY, Month.JUL, Month.AUG, Month.OCT, Month.DEC};
+
+    //has 30 days
+    static Month[] type2Months = {Month.APR, Month.JUN, Month.SEPT, Month.NOV};
+
+    //has < 30 days (also no leap years)
+    static Month[] type3Months = {Month.FEB};
+
+    private int day;
+    private int month;
+    private int year;
+
+    public Date() {
+        this(1, 1, 2000);
+    }
+
+    public Date(int month, int day, int year) {
+
+        if(isValidDay(day) && isValidMonth(month) && isValidYear(year)) {
+            this.month = month;
+            this.day = day;
+            this.year = year;
+        }
+        else {
+            System.out.println("Error in date: Incorrect values");
+        }
+
+    }
+
+    public static boolean isValidDay(int day) {
+        //can make better later
+        return day > 0 && day <= 31;
+    }
+
+    public static boolean isValidMonth(int month) {
+        return month > 0 && month <= 12;
+    }
+
+    public static boolean isValidYear(int year) {
+        //must be four numbers long... make more specific later
+        return year > 0 && year <= 9999;
+    }
+
+    public static void changeDate(Date oldDate, int month, int day, int year) {
+        //nothing yet...
+    }
+
+    public int getDay() {
+        return day;
+    }
+
+    public void setDay(int day) {
+        this.day = day;
+    }
+
+    public int getMonth() {
+        return month;
+    }
+
+    public void setMonth(int month) {
+        this.month = month;
+    }
+
+    public int getYear() {
+        return year;
+    }
+
+    public void setYear(int year) {
+        this.year = year;
+    }
+
+    public boolean equals(Date anotherDate) {
+        return this.month == anotherDate.month &&
+                this.day == anotherDate.day &&
+                this.year == anotherDate.year;
+    }
+
+    public Date getIncrement() {
+        if(contains(type1Months, getMonthFromNum())) {
+            if(day != 31) {
+                return new Date(month, day + 1, year);
+            }
+            if(month != 12) {
+                return new Date(month + 1, 1, year);
+            }
+            return new Date(1, 1, year);
+        }
+        else if(contains(type2Months, getMonthFromNum())) {
+            if(day != 30) {
+                return new Date(month, day + 1, year);
+            }
+            if(month != 12) {
+                return new Date(month + 1, 1, year);
+            }
+            return new Date(1, 1, year);
+        }
+        else if(contains(type3Months, getMonthFromNum())) {
+            if(day != 28) {
+                return new Date(month, day + 1, year);
+            }
+            if(month != 12) {
+                return new Date(month + 1, 1, year);
+            }
+            return new Date(1, 1, year);
+        }
+        return null;
+    }
+
+    public int getDateAsInt() {
+        return getDateAsInt(this);
+    }
+
+    //gets the date back as a number (out of 365)
+    public static int getDateAsInt(Date date){
+        populate();
+        return datesAsInts.get(new Integer[]{date.getMonth(), date.getDay()});
+    }
+
+    public static int getDateAsInt(String date) {
+        return getDateAsInt(stringToDate(date));
+    }
+
+    /**
+    NOTE: DEC and JAN are marked as consecutive, but they will be considered the same year. This must be fixed.
+     */
+    public boolean isConsecutive(Date anotherDate) {
+        if(this.year == anotherDate.year) {
+            if(this.month == anotherDate.month) {
+                return Math.max(day, anotherDate.day) - Math.min(day, anotherDate.day) == 1;
+            }
+            else {
+                if(month - anotherDate.month == 1) {
+                    if(contains(type1Months, getMonthFromNum())) {
+                        return day == 31 && anotherDate.day == 1;
+                    }
+                    else if(contains(type2Months, getMonthFromNum())) {
+                        return day == 30 && anotherDate.day == 1;
+                    }
+                    else if(contains(type3Months, getMonthFromNum())) {
+                        //once again, leap years have not been added
+                        return day == 28 && anotherDate.day == 1;
+                    }
+                }
+                else if(anotherDate.month - month == 1) {
+                    if(contains(type1Months, getMonthFromNum(anotherDate.month))) {
+                        return anotherDate.day == 31 && day == 1;
+                    }
+                    else if(contains(type2Months, getMonthFromNum(anotherDate.month))) {
+                        return anotherDate.day == 30 && day == 1;
+                    }
+                    else if(contains(type3Months, getMonthFromNum(anotherDate.month))) {
+                        //TODO add leap-year functionality
+                        return anotherDate.day == 28 && day == 1;
+                    }
+                }
+            }
+        }
+        return false;
+    }
+
+    public Month getMonthFromNum() {
+        return getMonthFromNum(this.month);
+    }
+
+    public static Date stringToDate(String date) {
+        String[] tokens = date.trim().split("/");
+        return new Date(Integer.parseInt(tokens[0]),
+                Integer.parseInt(tokens[1]),
+                Integer.parseInt(tokens[2]));
+    }
+
+    public static Month getMonthFromNum(int month) {
+        switch(month) {
+            case 1:
+                return Month.JAN;
+            case 2:
+                return Month.FEB;
+            case 3:
+                return Month.MAR;
+            case 4:
+                return Month.APR;
+            case 5:
+                return Month.MAY;
+            case 6:
+                return Month.JUN;
+            case 7:
+                return Month.JUL;
+            case 8:
+                return Month.AUG;
+            case 9:
+                return Month.SEPT;
+            case 10:
+                return Month.OCT;
+            case 11:
+                return Month.NOV;
+            case 12:
+                return Month.DEC;
+            default:
+                return null;
+        }
+    }
+
+    public static int getMonthAsNum(Month month) {
+        switch(month) {
+            case JAN:
+                return 1;
+            case FEB:
+                return 2;
+            case MAR:
+                return 3;
+            case APR:
+                return 4;
+            case MAY:
+                return 5;
+            case JUN:
+                return 6;
+            case JUL:
+                return 7;
+            case AUG:
+                return 8;
+            case SEPT:
+                return 9;
+            case OCT:
+                return 10;
+            case NOV:
+                return 11;
+            case DEC:
+                return 12;
+            default:
+                return -1;
+        }
+    }
+
+    private static void populate() {
+        int monthCounter = 1;
+        int dayCounter = 1;
+        for(int i = 0; i <= 365; i++) {
+            datesAsInts.put(new Integer[]{monthCounter, dayCounter}, i);
+            if(dayCounter == 30 && contains(type2Months, getMonthFromNum(monthCounter))) {
+                monthCounter++;
+                dayCounter = 0;
+            }
+            if(dayCounter == 31 && contains(type1Months, getMonthFromNum(monthCounter))) {
+                monthCounter++;
+                dayCounter = 0;
+            }
+            if(dayCounter == 28 && contains(type3Months, getMonthFromNum(monthCounter))) {
+                monthCounter++;
+                dayCounter = 0;
+            }
+            dayCounter++;
+        }
+    }
+
+    @Override
+    public String toString() {
+        return month + "/" + day + "/" + year;
+    }
+
+    public static boolean contains(Month[] arr, Month month) {
+        for(Month m : arr) {
+            if(m.equals(month)) {
+                return true;
+            }
+        }
+        return false;
+    }
+}
