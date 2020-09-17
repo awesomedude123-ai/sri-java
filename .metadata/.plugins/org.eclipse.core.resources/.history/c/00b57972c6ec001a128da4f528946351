@@ -1,9 +1,0 @@
-package com.sri.computerProject;
-
-import java.util.HashMap;
-
-public interface Data {
-	HashMap point=new HashMap<>();
-	public double average(double value1, double value2);
-	
-}
