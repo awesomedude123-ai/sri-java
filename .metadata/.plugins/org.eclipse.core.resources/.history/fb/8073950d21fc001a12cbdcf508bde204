@@ -1,0 +1,29 @@
+package com.sri.controller;
+
+import java.util.Collection;
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.sri.saveOrder.SaveOrder;
+
+@RestController
+@RequestMapping(path="")
+public class SaveOrderController {
+	
+	public List<String> getOrder(@RequestBody SaveOrder order) {
+		Collection<SaveOrder> collection;
+		collection.
+		List<String> list = null;
+		list.add(order.getOrderId());
+		list.add()
+		if(order.getError().equalsIgnoreCase("Error")) {
+			
+		}
+		list.add(order.getError());
+		return null;
+		
+	}// end SaveOrder method
+}
