@@ -3586,3 +3586,4 @@ org.eclipse.jdt.core.JavaModelException: target/springbootrest/WEB-INF/classes/c
 2020-09-17 07:04:09,898 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-09-17 07:04:09,913 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-17 07:04:09,914 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramsm\Desktop\Java\classWork\javaClass\SpringBootTemplate\src\test\resources
+2020-09-17 07:10:21,992 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
